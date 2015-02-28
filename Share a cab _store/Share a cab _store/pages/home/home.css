@@ -1,6 +1,7 @@
 ﻿.homepage section[role=main] {
     margin: auto 120px;
-    font-weight:bold;
+       color:black;
+  
 }
 .list{
     height:35px;
@@ -9,6 +10,8 @@
 body{
     background-image:url('/images/background.jpg');
     background-size:100%;
+ 
+    font-weight:bold;
 }
 #datebar{
     display:none;
@@ -35,3 +38,29 @@ body{
         top:128px;
         left:472px;
     }
+#details{
+    position:absolute;
+    top:80px;
+    left:80px;
+
+}
+#content{
+    color:black;
+    padding:20px;
+    border:2px solid;
+    border-color:rgb(182,211,41);
+    background-color:rgb(182,211,41);
+    opacity:0.7;
+    border-radius:10px;
+    right: 936px;
+    bottom: 286px;
+}
+#mapcontainer{
+    position:absolute;
+    top:50px;
+    left:500px;
+}
+#map{
+    height:400px;
+    width:750px;
+}

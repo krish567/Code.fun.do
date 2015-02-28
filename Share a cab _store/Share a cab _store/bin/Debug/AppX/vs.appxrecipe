@@ -8,7 +8,7 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>e3e9632b-eddd-4986-83c8-cf946e84789c</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\bld\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>F8B4A5693E3B53803FB791C02014313864C8352C2EA263413B5E121165EEF99C</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>BF7B6E820A6DFB6D57A827C782B6E2B7F5E0A6160969CD1B3CE9F3E06BA49D28</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>e3e9632b-eddd-4986-83c8-cf946e84789c_1.0.0.0_neutral__e5sweh4ddxqnw</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>e3e9632b-eddd-4986-83c8-cf946e84789c_e5sweh4ddxqnw!App</RegisteredUserModeAppID>
     <RegisteredPackageID>e3e9632b-eddd-4986-83c8-cf946e84789c</RegisteredPackageID>
@@ -20,7 +20,7 @@
     <AppXManifest Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-02-28T16:27:39.383</Modified>
+      <Modified>2015-02-28T19:30:57.898</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -30,7 +30,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\pages\home\home.css">
       <PackagePath>pages\home\home.css</PackagePath>
-      <Modified>2015-02-28T16:03:30.844</Modified>
+      <Modified>2015-02-28T19:57:59.747</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
@@ -45,7 +45,7 @@
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\images\splashscreen.scale-100.png">
       <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-06-02T12:08:24.000</Modified>
+      <Modified>2015-02-28T18:46:07.934</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\images\storelogo.scale-100.png">
       <PackagePath>images\storelogo.scale-100.png</PackagePath>
@@ -58,7 +58,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2015-02-28T11:07:46.720</Modified>
+      <Modified>2015-02-28T19:42:45.125</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
@@ -70,7 +70,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\pages\home\home.html">
       <PackagePath>pages\home\home.html</PackagePath>
-      <Modified>2015-02-28T17:41:57.228</Modified>
+      <Modified>2015-02-28T18:01:21.055</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\default.html">
       <PackagePath>default.html</PackagePath>
@@ -78,11 +78,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\pages\home\booking.html">
       <PackagePath>pages\home\booking.html</PackagePath>
-      <Modified>2015-02-28T17:41:17.383</Modified>
+      <Modified>2015-02-28T19:59:06.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\pages\home\map.html">
+      <PackagePath>pages\home\map.html</PackagePath>
+      <Modified>2015-02-28T19:00:23.956</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-02-28T16:27:38.867</Modified>
+      <Modified>2015-02-28T19:30:57.642</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -59,6 +59,9 @@
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\pages\home\booking.html">
       <PackagePath>pages\home\booking.html</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\pages\home\map.html">
+      <PackagePath>pages\home\map.html</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>

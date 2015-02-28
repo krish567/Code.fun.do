@@ -2,12 +2,21 @@
 // http://go.microsoft.com/fwlink/?LinkId=232506
 (function () {
     "use strict";
-
+    var lastposition=null;
     var activation = Windows.ApplicationModel.Activation;
     var app = WinJS.Application;
     var nav = WinJS.Navigation;
     var sched = WinJS.Utilities.Scheduler;
     var ui = WinJS.UI;
+
+    var gl = new Windows.Devices.Geolocation.Geolocator();
+    gl.getGeopositionAsync().done(function (position) {    
+        var lastPosition = { latitude: position.coordinate.latitude, longitude: position.coordinate.longitude };
+        callFrameScript(document.frames["map"], "pinLocation", [position.coordinate.latitude, position.coordinate.longitude]);
+    }, function (err) {
+        var dlg = new Windows.UI.Popups.MessageDialog(err.message, "Location Lookup Error!");
+        dlg.showAsync();
+    });
 
     app.addEventListener("activated", function (args) {
         if (args.detail.kind === activation.ActivationKind.launch) {
@@ -43,6 +52,11 @@
         // suspended, call args.setPromise().
         app.sessionState.history = nav.history;
     };
+    function callFrameScript(frame,targetfunction,args){
+        var message={functionName: targetfunction,args:args};
+        frame.postMessage(JSON.stringify(message), "ms-appx-web://" + documment.location.host);
+    }
 
     app.start();
+    
 })();

@@ -68,6 +68,7 @@
     <Content Include="pages\home\home.js" />
     <Content Include="default.html" />
     <Content Include="pages\home\booking.html" />
+    <Content Include="pages\home\map.html" />
     <None Include="Share a cab _store_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
