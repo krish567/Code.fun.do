@@ -38,6 +38,9 @@
       <PackagePath>images\storelogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\images\background.jpg">
+      <PackagePath>images\background.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\js\default.js">
       <PackagePath>js\default.js</PackagePath>
     </AppxPackagedFile>
@@ -52,6 +55,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\default.html">
       <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\pages\home\booking.html">
+      <PackagePath>pages\home\booking.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
