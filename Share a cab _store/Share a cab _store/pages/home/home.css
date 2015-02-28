@@ -1,3 +1,37 @@
 ﻿.homepage section[role=main] {
     margin: auto 120px;
+    font-weight:bold;
 }
+.list{
+    height:35px;
+    width:200px;
+}
+body{
+    background-image:url('/images/background.jpg');
+    background-size:100%;
+}
+#datebar{
+    display:none;
+}
+#datename{
+    display:none;
+}
+#secondridelater{
+    display:none;
+}
+.buttons{
+    background-color:rgb(182,211,41) !important;
+    color:white;
+}
+    .buttons:hover {
+        color:grey;
+        border:1px thin grey;
+}
+#profimage{
+        background-image:url(/images/background.jpg);
+        height:150px;
+        width:150px;
+        position:absolute;
+        top:128px;
+        left:472px;
+    }

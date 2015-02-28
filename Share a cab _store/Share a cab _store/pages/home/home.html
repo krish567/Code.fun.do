@@ -8,6 +8,20 @@
     <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
     <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
     <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+    <script>
+        function showdate(){
+            var datebar = document.getElementById('datename');
+            datename.style.display = "block";
+            var datebar = document.getElementById('datebar');
+            datebar.style.display = "block";
+            var now_but = document.getElementById('ridenow');
+            now_but.style.display = "none";
+            var later_but = document.getElementById('ridelater');
+            later_but.style.display = "none";
+            var later = document.getElementById('secondridelater');
+            later.style.display = "block";
+        }
+    </script>
 
     <link href="/css/default.css" rel="stylesheet" />
     <link href="/pages/home/home.css" rel="stylesheet" />
@@ -22,9 +36,95 @@
                 <span class="pagetitle">Welcome to Share a cab _store!</span>
             </h1>
         </header>
+        <br />
         <section aria-label="Main content" role="main">
-            <p>Content goes here.</p>
-        </section>
+            <div id="ridedetails">
+               
+
+                <table>
+
+                    <tr>
+                        <td>
+                            FROM :
+                        </td>
+
+                        <td>
+                           <select class="list" id="from" name="from_des">
+                                <option value="Chennai">Chennai</option>
+                                <option value="Hyderabad">Hyderabad</option>
+                                <option value="Bangalore">Bangalore</option>
+                                <option value="Vijayawada">Vijayawada</option>
+                                <option value="Tiruvananthapuram">Tiruvananthapuram</option>
+                                <option value="Coimbatore">Coimbatore</option>
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            To : 
+                        </td>
+
+                        <td>
+                            <select class="list" id="to" name="to_des">
+                                <option value="Chennai">Chennai</option>
+                                <option value="Hyderabad">Hyderabad</option>
+                                <option value="Bangalore">Bangalore</option>
+                                <option value="Vijayawada">Vijayawada</option>
+                                <option value="Tiruvananthapuram">Tiruvananthapuram</option>
+                                <option value="Coimbatore">Coimbatore</option>
+                            </select>
+                        </td>
+                    </tr>
+               </table>
+                <br />
+
+                <table>
+                   
+                    <tr>
+                        <td>
+                            Pick A Time :
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <div data-win-control="WinJS.UI.TimePicker" id="timeset"></div>
+                        </td>
+                    </tr>
+
+                    <tr id="datename">
+                        <td>
+                            Pick a Date :
+                        </td>
+                    </tr>
+
+                    <tr id="datebar">
+                        <td>
+                            <div data-win-control="WinJS.UI.DatePicker"></div>
+                        </td>
+                    </tr>
+                
+               </table> 
+                <br />
+                <a href="booking.html" id="ridenow">
+                    <button class="buttons">Ride Now</button>
+                </a>
+                    <button onclick="showdate()" id="ridelater" class="buttons">Ride Later</button>
+                <br />
+                <a href="booking.html" id="secondridelater">
+                    <button class="buttons">Proceed</button>
+                </a>
+        </div>
+   </section>
+    <section>
+        <div id="profimage">
+
+        </div>
+    </section>
+
+        
     </div>
+    
 </body>
 </html>
