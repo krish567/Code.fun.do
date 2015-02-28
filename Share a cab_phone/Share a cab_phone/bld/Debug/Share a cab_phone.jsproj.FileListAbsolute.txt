@@ -1,0 +1,15 @@
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bin\Debug\ReverseMap\resources.pri
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bin\Debug\AppxManifest.xml
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bin\Debug\Share a cab_phone.build.appxrecipe
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bld\Debug\priconfig.xml
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bld\Debug\priconfig.xml.intermediate
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bld\Debug\layout.resfiles
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bld\Debug\layout.resfiles.intermediate
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bld\Debug\resources.resfiles
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bld\Debug\resources.resfiles.intermediate
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bld\Debug\pri.resfiles
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bld\Debug\pri.resfiles.intermediate
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bld\Debug\qualifiers.txt
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bld\Debug\qualifiers.txt.intermediate
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab_phone\Share a cab_phone\bld\Debug\ProjectArchitectures.txt

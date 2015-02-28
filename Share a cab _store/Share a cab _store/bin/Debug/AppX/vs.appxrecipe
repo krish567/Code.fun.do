@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KRISH</Machine>
+    <WindowsUser>kaluv_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e3e9632b-eddd-4986-83c8-cf946e84789c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7FAC55F78534E6E2276BFE7F4C727A5A3230C1186553CA9D70E8F7BCA43B6526</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e3e9632b-eddd-4986-83c8-cf946e84789c_1.0.0.0_neutral__e5sweh4ddxqnw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e3e9632b-eddd-4986-83c8-cf946e84789c_e5sweh4ddxqnw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e3e9632b-eddd-4986-83c8-cf946e84789c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=kaluv_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-28T11:07:59.758</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-02-28T11:07:46.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2015-02-28T11:07:46.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-02-28T11:07:46.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2015-02-28T11:07:47.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2015-02-28T11:07:47.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2015-02-28T11:07:46.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-02-28T11:07:46.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaluv_000\Documents\GitHub\Code.fun.do\Share a cab _store\Share a cab _store\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-28T11:07:59.414</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
